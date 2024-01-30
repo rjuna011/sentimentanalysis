@@ -5,7 +5,7 @@ This application allows users to input text and view the sentiment polarity scor
 
 I. How to Use
 
-1. Visit the [Sentiment Analysis Tools]([https://sentimentanalysis-gsq7gcuhx64dxfvz3tswmd.streamlit.app]) application in your browser.
+1. Visit the Sentiment Analysis Tools (https://sentimentanalysis-gsq7gcuhx64dxfvz3tswmd.streamlit.app) application in your browser.
 2. Fill in the "Insert Your Text" column with the text you want to analyze sentiment.
 3. Click the "Analyze" button to see the sentiment analysis results.
 4. The application will display the sentiment polarity score and the corresponding sentiment category.

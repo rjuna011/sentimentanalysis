@@ -18,7 +18,7 @@ I am very happy today! The weather is nice, and I had a productive day.
 Feeling extremely disappointed with customer service. The item I ordered is damaged, and it's difficult to get assistance.
 
 # Neutral Text
-Today is just an ordinary day. Nothing special happened, but nothing bad either.
+Mr. Joko Widodo is the president of the country Indonesia.
 
 III. Further Development
 
